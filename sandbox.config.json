@@ -1,0 +1,6 @@
+{
+  "template": "remix-starter",
+  "infiniteLoopProtection": false,
+  "hardReloadOnChange": false,
+  "disableLogging": false
+}
